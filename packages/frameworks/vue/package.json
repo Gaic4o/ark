@@ -32,7 +32,7 @@
     "@ark-ui/anatomy": "2.3.1",
     "@zag-js/accordion": "0.38.1",
     "@zag-js/avatar": "0.38.1",
-    "@zag-js/carousel": "0.38.1",
+    "@zag-js/carousel": "0.82.2",
     "@zag-js/checkbox": "0.38.1",
     "@zag-js/clipboard": "0.38.1",
     "@zag-js/collapsible": "0.38.1",
